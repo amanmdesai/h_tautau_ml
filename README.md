@@ -1,1 +1,1 @@
-# higgs-ml-kaggle
+# $$H -> \tau \tau$$
