@@ -1,1 +1,1 @@
-# $$H -> \tau \tau$$
+# $$H \rightarrow \tau \tau$$
